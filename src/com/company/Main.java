@@ -13,6 +13,8 @@ public class Main {
 //        while (true) {
 //            start();
 //        }
+
+        System.out.println("Мен жаны branch туздум");
     }
 
 
@@ -43,4 +45,5 @@ public class Main {
         }
         return a;
     }
+
 }
